@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Descrição do projeto
 
-<h3> Projeto um ToDo que pode cadastrar uma tarefa definindo sua categoria,podendo definir também como completado e excluir a tarefa, é possível também ordenar asc e desc, filtrar por tarefas completadas, incompletas e pelo nome.</h3>
+<h4> Projeto um ToDo que pode cadastrar uma tarefa definindo sua categoria,podendo definir também como completado e excluir a tarefa, é possível também ordenar asc e desc, filtrar por tarefas completadas, incompletas e pelo nome.</h4>
 
 ## Tecnologias utilizadas
 
